@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "OutBody&Sequence_2",
+        "OutSubject&Sequence_2",
+        "bodyObject&Sequence_6",
+        "subObject&Sequence_6",
+        "pyScript&Sequence_6",
+        "input&Sequence_6",
+        "index&Sequence_1",
+        "fbMailCollection&Sequence_1",
+        "fexp&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
