@@ -4,7 +4,7 @@
 import google.generativeai as genai
 
 def getSubject(mailContent):
-    genai.configure(api_key="AIzaSyDJhUvjfAZ65z1k6YpUwd7jolMLoiHrE9Y")
+    genai.configure(api_key="GOOGLE_API_KEY")
     generation_config = {
         "temperature": 1,
         "top_p": 0.95,
